@@ -10,7 +10,7 @@
   display: flex;
   padding: 3rem 4rem;
   background-size: cover;
-  background-image: url(/images/bgx.jpeg);
+  background-image: url(images/bgx.jpeg);
 }
 
 .hero .text {
